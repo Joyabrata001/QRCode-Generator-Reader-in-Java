@@ -35,6 +35,11 @@ import java.util.List;
 import java.util.Objects;
 import javax.imageio.ImageIO;
 
+/**
+ *
+ * @author Joyabrata Acharyya (2021CSB011)
+ * 
+ */
 public final class QrCodeGeneratorDemo {
 
 	// The main application program.

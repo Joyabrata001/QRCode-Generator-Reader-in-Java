@@ -15,7 +15,8 @@ import java.io.IOException;
 
 /**
  *
- * @author joyab
+ * @author Sagar Basak (2021CSB008)
+ * 
  */
 public class QRCodeReaderDemo {
 
